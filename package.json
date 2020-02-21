@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是自动化创建的gitbook。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuxiaodao/ibook.git"
+  },
+  "keywords": [],
+  "author": "Wuxiaodao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wuxiaodao/ibook/issues"
+  },
+  "homepage": "https://github.com/Wuxiaodao/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
